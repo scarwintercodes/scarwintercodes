@@ -1,11 +1,20 @@
-## Hi there 👋 My name is Scar Winter Kelsey. Yes, Scar like the fictional villain, but a real life person instead. 🦁   
+# Hi there 👋 I'm Scar Winter Kelsey
+> Yes, Scar like the fictional villain, but a real life person instead 🦁
 
+[![HIPAA Certified](https://img.shields.io/badge/HIPAA-Certified-blue)](https://www.citiprogram.org/)
+
+## 🚀 About Me
 I am a data professional passionate about making complex technical concepts accessible and actionable. Currently serving as a Lead Data Analyst at Northwestern University's Feinberg School of Medicine, I specialize in bridging the gap between intricate data systems and the people who need to understand them.
 
+## 💼 Professional Journey
 My journey spans healthcare analytics, technology training, and data governance, where I've consistently focused on enhancing team efficiency and building robust data solutions. I thrive on transforming complex datasets into clear insights using R, Python, and SQL, while ensuring that the stories behind the numbers are understood by all stakeholders.
 
+## 🎓 Background
 With a background in both Information Systems Management and Political Science, I bring a unique perspective to data analysis that combines technical expertise with strong communication skills. I particularly enjoy mentoring junior analysts and creating user-friendly technical documentation that makes data science more approachable.
 
-**Technical toolkit:** R, Python, SQL, RStudio, Quarto, Markdown, Git, Data Visualization  
-**Certified in:** HIPAA Security and Privacy  
-**Specialties:** Data Governance, Technical Documentation, Project Management, Team Leadership
+## 🛠️ Technical Toolkit
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
