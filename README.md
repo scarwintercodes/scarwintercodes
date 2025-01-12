@@ -6,6 +6,6 @@ My journey spans healthcare analytics, technology training, and data governance,
 
 With a background in both Information Systems Management and Political Science, I bring a unique perspective to data analysis that combines technical expertise with strong communication skills. I particularly enjoy mentoring junior analysts and creating user-friendly technical documentation that makes data science more approachable.
 
-**Technical toolkit:** R, Python, SQL, RStudio, Quarto, Markdown, Git, Data Visualization
-**Certified in:** HIPAA Security and Privacy
+**Technical toolkit:** R, Python, SQL, RStudio, Quarto, Markdown, Git, Data Visualization  
+**Certified in:** HIPAA Security and Privacy  
 **Specialties:** Data Governance, Technical Documentation, Project Management, Team Leadership
