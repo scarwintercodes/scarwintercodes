@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Scar Winter Kelsey
 > Yes, Scar like the fictional villain, but a real life person instead 🦁
 
-[![HIPAA Certified](https://img.shields.io/badge/HIPAA-Certified-blue)](https://www.citiprogram.org/)
-
 ## 🚀 About Me
 I am a data professional passionate about making complex technical concepts accessible and actionable. Currently serving as a Lead Data Analyst at Northwestern University's Feinberg School of Medicine, I specialize in bridging the gap between intricate data systems and the people who need to understand them.
 
