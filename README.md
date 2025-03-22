@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Scar Winter Kelsey
+# Hi, I'm Scar!
 > Yes, Scar like the fictional villain, but a real life person instead. 🦁
 
 ## ⚙ About Me
