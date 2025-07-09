@@ -1,5 +1,5 @@
 # Hi, I'm Scar!
-> Yes, Scar like the fictional villain, but a real life person. 🦁
+> Yes, Scar, like the fictional villain, but a real life person instead. 🦁
 
 ## ❄️ About Me
 I am a tech professional passionate about making complex technical concepts accessible and actionable. I specialize in bridging the gap between intricate information systems and the people who need to understand them. My professional background includes:
