@@ -1,5 +1,5 @@
 # Hi, I'm Scar!
-> Yes, Scar, like the fictional villain, but a real life person instead. 🦁
+> Yes, Scar, like the fictional villain, but a real person instead. 🦁
 
 ## ❄️ About Me
 I help people navigate their data roadmaps so they don't have to ask the same question twice.
