@@ -4,7 +4,7 @@
 ## ❄️ About Me
 I help people navigate their data roadmaps so they don't have to ask the same question twice.
 
-My collaborative spirit, jack-of-all-trades approach, and intellectual curiosity enable sustainable and digestible data management processes that make sense for programmers, project managers, and executive stakeholders. For over 10 years, I have helped clients, businesses, and non-profits reach their goals - from developing robust data governance policies to building and monitoring end-to-end data pipelines.
+My collaborative spirit, jack-of-all-trades approach, and intellectual curiosity enable sustainable and digestible data management processes that make sense for programmers, project managers, and executive stakeholders. For over 10 years, I have helped clients, businesses, and non-profits reach their goals; from developing robust data governance policies to building and monitoring end-to-end data pipelines.
 
 Tools:
 - R
