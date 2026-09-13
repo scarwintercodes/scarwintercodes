@@ -23,4 +23,5 @@ My Github is my personal laboratory. This is where I test ideas and bring them t
 I'm open to collaborations around projects related to:
 - Developing and maintaining an AI-minimal workflow
 - Exchanging digital privacy knowledge and practical resources
-- Using municipal data to bring light to environmental and infrastructural issues.
+- Using municipal data to bring light to environmental and infrastructural issues
+- Synthesized mixed-methods data for academic and public dissemination
