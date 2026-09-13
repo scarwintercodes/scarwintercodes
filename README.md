@@ -22,4 +22,5 @@ My Github is my personal laboratory. This is where I test ideas and bring them t
 ## Happy to Collaborate
 I'm open to collaborations around projects related to:
 - Developing and maintaining an AI-minimal workflow
-- Exchanging knowledge around digital privacy
+- Exchanging digital privacy knowledge and practical resources
+- Using municipal data to bring light to environmental and infrastructural issues.
