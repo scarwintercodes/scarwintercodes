@@ -11,7 +11,7 @@ Tools:
 - Python
 - SQL
 - Tableau
-- PowerBI
+- Power BI
 - Google Analytics
 - Microsoft Access
 - Linux
@@ -24,4 +24,4 @@ I'm open to collaborations around projects related to:
 - Developing and maintaining an AI-minimal workflow
 - Exchanging digital privacy knowledge and practical resources
 - Using municipal data to bring light to environmental and infrastructural issues
-- Synthesized mixed-methods data for academic and public dissemination
+- Synthesizing mixed-methods data for academic and public dissemination
