@@ -19,7 +19,7 @@ Tools:
 ## 🧪 About This Page
 My Github is my personal laboratory. This is where I test ideas and bring them to life. Currently, I am exploring geospatial data in R through comprehensive tutorials and self-directed analysis projects exploring Chicago's Open Data portal. I'm also developing interactive data visualization products using taipy in Python.
 
-## Let's Work Together
+## 🔗 Let's Work Together
 I'm open to collaborations around projects related to:
 - Developing and maintaining an AI-minimal workflow
 - Exchanging digital privacy knowledge and practical resources
