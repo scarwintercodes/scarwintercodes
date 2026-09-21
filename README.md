@@ -24,4 +24,4 @@ I'm open to collaborations around projects related to:
 - Developing & maintaining an AI-minimal workflow
 - Exchanging digital privacy knowledge and practical resources
 - Using municipal data to bring light to environmental and infrastructural issues
-- Synthesizing mixed-methods data for academic and public dissemination
+- Synthesizing mixed-methods data for academic and public discussion
